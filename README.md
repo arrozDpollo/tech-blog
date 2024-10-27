@@ -52,6 +52,9 @@ npm run start
 
 http://localhost:3001
 
+## Live Deploy
+https://tech-blog-ne0v.onrender.com/
+
 #Register a new account or log in if you already have one.
 
 #Use the dashboard to create, edit, or delete your blog posts.
